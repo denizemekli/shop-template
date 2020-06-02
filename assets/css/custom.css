@@ -1,0 +1,20 @@
+.row {
+}
+
+#editbox {
+  margin-top: 8px;
+}
+
+#odemesecimsatir {
+  height: 64px;
+}
+
+.form-check-label {
+}
+
+#odemesecimlabel {
+  color: rgb(102,121,140);
+  font-size: 15px;
+  font-weight: bold;
+}
+

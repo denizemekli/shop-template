@@ -1,0 +1,14 @@
+.card-group > .card {
+  margin: 10px;
+  height: auto;
+}
+
+.card-group > .card:not(:first-child) {
+}
+
+.cardlar {
+}
+
+.editbox {
+}
+
